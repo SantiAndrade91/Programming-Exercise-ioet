@@ -92,7 +92,7 @@ Let's take a look into every function defined:
 
 As stated above, this program is written in `Python` so it is necessary to install Python 3 in your computer to run it.
 
-You can simply clone this repository or download the files as a `.zip` folder into your machine. Then you need to open the console within the local directory and run de following command:
+You can simply clone this repository or download the files as a `.zip` folder into your machine. Then you need to open the console/terminal within the local directory and run de following command:
 
 `python solution.py`
 
